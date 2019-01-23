@@ -1,6 +1,6 @@
-/*
- * Tigase HTTP API
- * Copyright (C) 2004-2014 "Tigase, Inc." <office@tigase.com>
+/**
+ * Tigase HTTP API - support for Jetty HTTP Server - Tigase HTTP API - support for Jetty HTTP Server
+ * Copyright (C) 2014 Tigase, Inc. (office@tigase.com)
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -14,9 +14,7 @@
  * You should have received a copy of the GNU Affero General Public License
  * along with this program. Look for COPYING file in the top folder.
  * If not, see http://www.gnu.org/licenses/.
- *
  */
-
 package tigase.http.jetty;
 
 import org.eclipse.jetty.server.Server;
